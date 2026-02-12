@@ -70,13 +70,13 @@ Scalable architecture
 
 📷 Screenshots
 🌙 Dark Mode
+<img width="1920" height="1020" alt="Screenshot 2026-02-13 014428" src="https://github.com/user-attachments/assets/3334e787-1926-4040-ab08-e23961429fa9" />
 
 ☀ Light Mode
+<img width="1920" height="1020" alt="Screenshot 2026-02-13 014938" src="https://github.com/user-attachments/assets/75ca5b72-56ca-4c82-99cd-8ac7bfa00f12" />
 
-💬 Chat in Action
-  "updatedAt": "..."
-}
 
+ 
 
 
 ## ⚙️ Installation & Setup
